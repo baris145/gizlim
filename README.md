@@ -1,0 +1,2 @@
+# gizlim
+ koruma meyili
